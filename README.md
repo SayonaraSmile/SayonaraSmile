@@ -1,6 +1,7 @@
 ### Hi there 👋 Im, SayonaraSmile
 🔭 I'm living in indonesia <br>
-🌱 I’m currently learning JavaScript and another Front-end languages
+🌱 Love to solve a problem
+
 
 <!--
 **SayonaraSmile/SayonaraSmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
